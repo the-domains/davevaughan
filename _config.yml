@@ -98,7 +98,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Not So Famous Yet
+description: photography
 purpose:
   - type: contact
     url: 'mailto:davevaughan@protonmail.com'
