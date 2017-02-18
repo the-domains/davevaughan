@@ -24,7 +24,7 @@ colors:
     - 'hsl(0,0%,20%)'
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3bebd37-ed48-430f-942e-41572407aebb.jpg
-title: DAVE VAUGHAN  photographer
+title: DAVE VAUGHAN
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
