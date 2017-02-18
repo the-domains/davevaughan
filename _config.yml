@@ -1,0 +1,105 @@
+layout_spectrum: 0.3747736099487779
+typography_spectrum: 0.9848324171140199
+color:
+  brandStrength: 0.16765361441161003
+  lightness: 0.1940464471901149
+  saturation: 0.3788732122249975
+  rhythmicContrast: 0.24670332655236862
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+content_rating:
+  adult: false
+github: true
+name: DAVE VAUGHAN photographer
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3bebd37-ed48-430f-942e-41572407aebb.jpg
+title: DAVE VAUGHAN  photographer
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/625d0432-9de9-486a-908e-8c9204194534.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/625d0432-9de9-486a-908e-8c9204194534.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/766cca93-9164-489e-ae22-9ef3cf49ace7.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/766cca93-9164-489e-ae22-9ef3cf49ace7.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d366c34b-b565-464a-8509-4f271c79af00.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d366c34b-b565-464a-8509-4f271c79af00.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Not So Famous Yet
+purpose:
+  - type: contact
+    url: 'mailto:davevaughan@protonmail.com'
+    label: Contact
